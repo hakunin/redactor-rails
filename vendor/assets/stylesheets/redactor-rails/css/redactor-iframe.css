@@ -4,10 +4,10 @@ html {
 }
 body {
 	margin: 0;
-	padding: 10px;
+	padding: 0px;
 	font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
 }
-
+/*
 code,
 pre {
 	font-family: Menlo, Monaco, monospace, sans-serif;
@@ -157,6 +157,7 @@ h5 {
 	margin-bottom: 10px;
 	font-size: 1em;
 }
+*/
 
 body.redactor_editor_wym {
 	background: #f4f4f4;
